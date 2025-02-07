@@ -1,0 +1,18 @@
+.container{
+    max-width: 1200px;
+    width: 100%;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.desktop-nav{
+display: flex;
+justify-content: space-between;
+
+}
+
+.header .desktop-nav p{
+    margin-left: 20px;
+}
